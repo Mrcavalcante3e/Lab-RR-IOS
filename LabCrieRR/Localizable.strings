@@ -1,0 +1,92 @@
+/* 
+  Localizable.strings
+  LabCrieRR
+
+  Created by Lucas Cavalcante on 10/11/24.
+  
+*/
+//APP Title
+"app" = "LABCRIE-RR" ;
+"goback" = "Voltar" ;
+
+//Titles
+"title_robotica" = "Robótica";
+"title_gamificacao" = "Gamificação";
+"title_aprendizagem" = "Aprendizagem Criativa";
+"title_inteligencia" = "Inteligência Artificial";
+"title_educomunicacao" = "Educomunicação";
+"title_cultura" = "Cultura Maker";
+
+
+//Titles_Metodologias
+"metodologia_robotica" = "Robótica Educacional";
+"metodologia_gamificacao" = "Gamificação";
+"metodologia_aprendizagem" = "Aprendizagem Criativa";
+"metodologia_inteligencia" = "Inteligência Artificial";
+"metodologia_educomunicacao" = "Educomunicação";
+"metodologia_cultura" = "Cultura Maker";
+
+//Content_Robótica
+"content_robotica" = "Oferece uma oportunidade única para os alunos aplicarem conhecimentos teóricos em projetos práticos. Ao construir e programar robôs, os estudantes desenvolvem habilidades como programação, resolução de problemas, pensamento lógico e trabalho em equipe. A robótica também estimula a criatividade e a inovação, pois os alunos são desafiados a encontrar soluções originais para problemas complexos. Essa metodologia interdisciplinar conecta diferentes áreas do conhecimento, como matemática, física e engenharia, preparando os alunos para os desafios do mundo contemporâneo.
+        
+Temos como exemplo: Construção de um robô seguidor de linha: Os alunos podem construir um robô utilizando kits de robótica e programá-lo para seguir uma linha preta sobre uma superfície.
+
+Desenvolvimento de jogos: Usando os sensores e motores do Robô (EV3) para ontrolar os personagens do jogo, através de plataformas de programação visual, como Scratch ou BlocklyGames, os alunos podem criar aplicativos para controlar robôs e realizar diferentes tarefas.";
+
+
+//Content_Gamificação
+"content_gamificacao" = "Consiste na aplicação de elementos e mecânicas de jogos em ambientes de aprendizagem, com o objetivo de tornar o processo educativo mais divertido e motivador. Ao incorporar elementos como pontos, níveis, desafios e recompensas, a gamificação aumenta o engajamento dos alunos e os incentiva a alcançar metas. Essa abordagem transforma a aprendizagem em uma experiência mais lúdica, tornando o conteúdo mais atraente e memorável. Além disso, a gamificação promove o desenvolvimento de habilidades como persistência, tomada de decisão e trabalho em equipe.
+
+Exemplos de atividades desenvolvidas: Caça ao tesouro digital: Os alunos podem realizar uma caça ao tesouro virtual para encontrar informações sobre um determinado tema, utilizando pistas e enigmas.
+
+Plataformas de aprendizagem gamificada: É possível utilizar plataformas como Kahoot e Quizzis para transformar aulas tradicionais em experiências mais interativas e divertidas.";
+
+//Content_Educomunicacao
+"content_educomunicacao" = "Integra a educação e a comunicação, permitindo que os alunos produzam seus próprios conteúdos e participem ativamente da construção do conhecimento. Através de ferramentas digitais, como blogs, podcasts e vídeos, os alunos podem expressar suas ideias, compartilhar informações e colaborar com outros. Essa abordagem desenvolve habilidades como comunicação, expressão, pensamento crítico e cidadania digital. A educomunicação também promove a aprendizagem colaborativa e a construção de conhecimentos de forma mais significativa e contextualizada.
+
+Criação de podcasts: Os alunos podem produzir podcasts sobre temas de seu interesse, entrevistando especialistas e divulgando suas ideias.
+
+Produção de jornal:(impresso e eletrônico) é o recurso didático, que atende às necessidades da educação escolar (ler, escrever, interpretar textos…)
+
+Produção de vídeos educativos: Utilizando ferramentas de edição de vídeo, os alunos podem criar vídeos explicativos sobre diferentes conteúdos, utilizando linguagem clara e objetiva.";
+
+//Content_Aprendizgem_Criativa
+"content_aprendizagem" = "Transcende a simples memorização de conteúdos, incentivando os alunos a desenvolverem suas habilidades de pensamento crítico e resolução de problemas. Ao invés de apenas receber informações prontas, os estudantes são estimulados a criar, inovar e encontrar soluções originais para desafios reais. Essa abordagem valoriza a colaboração, a experimentação e a expressão individual, proporcionando um ambiente de aprendizagem mais engajador e significativo. Através de projetos práticos e atividades que estimulam a imaginação, os alunos aprendem a pensar de forma mais flexível e a aplicar seus conhecimentos em diferentes contextos.
+
+Exemplos de atividades desenvolvidas:
+Instalações artísticas com materiais reciclados: Transformar materiais descartados em objetos que estimula a criatividade e a consciência ambiental.";
+
+//Content_Inteligência_Artificial
+"content_inteligencia" = "A IA na educação se refere à aplicação de algoritmos e técnicas de aprendizado de máquina para criar sistemas inteligentes que auxiliam no processo de ensino e aprendizagem. Esses sistemas são capazes de analisar grandes volumes de dados, identificar padrões e personalizar o aprendizado de cada aluno.
+
+Exemplos de atividades desenvolvidas:
+Personalização do aprendizagem: Permite criar experiências de aprendizagem personalizadas, adaptando o conteúdo e o ritmo de cada aluno de acordo com suas necessidades e habilidades.
+
+Tutoria inteligente:
+Sistemas de tutoramento inteligentes podem fornecer feedback instantâneo aos alunos, responder a dúvidas e oferecer explicações adicionais.
+
+Avaliação automatizada:
+A IA pode automatizar a correção de exercícios e provas, liberando tempo para que os professores se dediquem a atividades mais complexas.
+
+Análise de dados:
+A IA pode analisar grandes volumes de dados sobre o desempenho dos alunos, identificando padrões e tendências que podem ajudar os professores a melhorar suas práticas pedagógicas.
+
+Assistentes virtuais:
+Chatbots e assistentes virtuais podem responder a dúvidas dos alunos, fornecer informações sobre cursos e auxiliar na gestão das atividades escolares.";
+
+//Content_Cultura_Maker
+"content_culturamaker" = "Caracterizada pela criação de protótipos e pela experimentação, promove uma aprendizagem ativa e hands-on. Ao construir objetos e dispositivos, os alunos desenvolvem habilidades como design, prototipação, fabricação digital e resolução de problemas. A cultura maker valoriza a colaboração, a experimentação e a autonomia, incentivando os alunos a explorar suas ideias e a transformar seus projetos em realidade. Essa abordagem prepara os alunos para um futuro profissional cada vez mais inovador e tecnológico.
+
+Exemplos de atividades desenvolvidas:
+Design de produtos sustentáveis: Os alunos podem projetar produtos que minimizem o impacto ambiental, utilizando materiais ecológicos e processos de produção sustentáveis.
+
+Criação de aplicativos móveis:Os alunos podem desenvolver aplicativos para smartphones e tablets, utilizando plataformas de desenvolvimento de aplicativos.
+
+Criação de jogos de tabuleiro: Os alunos podem projetar e construir seus próprios jogos de tabuleiro, utilizando materiais reciclados e diferentes mecanismos.";
+
+//TabView title
+"home"= "Início";
+"maps" = "Mapa";
+"ava" = "Avalie";
+"contact" = "Contato";
+"settings" = "Sobre";
